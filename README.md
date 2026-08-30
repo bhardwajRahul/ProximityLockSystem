@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akarshjha03/ProximityLockSystem/main/Images/Proximity_staff_picked1.png" alt="Proximity App Logo" width="250" />
+  <img src="https://raw.githubusercontent.com/Akarshjha03/ProximityLockSystem/main/assets/Proximity_staff_picked1.png" alt="Proximity App Logo" width="250" />
 </p>
 
 <table align="center">
@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akarshjha03/ProximityLockSystem/main/Images/Terminal_Preview_new.png" width="800" />
+  <img src="https://raw.githubusercontent.com/Akarshjha03/ProximityLockSystem/main/assets/Terminal_Preview_new.png" width="800" />
 </p>
 
 ## ⚠️ IMPORTANT WARNING
@@ -145,12 +145,12 @@ Tweak the constants in `proximity_lock_system/config.py`:
   <tr>
     <td align="center">
       <a href="https://www.producthunt.com/products/proximity-lock-system?launch=proximity-lock-system-2-0">
-        <img src="https://raw.githubusercontent.com/Akarshjha03/ProximityLockSystem/main/Images/Screenshot%202025-11-19%20220056.png" width="450">
+        <img src="https://raw.githubusercontent.com/Akarshjha03/ProximityLockSystem/main/assets/Screenshot%202025-11-19%20220056.png" width="450">
       </a>
     </td>
     <td align="center">
       <a href="https://peerlist.io/akarshjha03/project/proximity-lock-system">
-        <img src="https://raw.githubusercontent.com/Akarshjha03/ProximityLockSystem/main/Images/Peerlist_peers1.png" width="400">
+        <img src="https://raw.githubusercontent.com/Akarshjha03/ProximityLockSystem/main/assets/Peerlist_peers1.png" width="400">
       </a>
     </td>
   </tr>
