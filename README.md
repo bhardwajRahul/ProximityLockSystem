@@ -160,7 +160,7 @@ Tweak the constants in `proximity_lock_system/config.py`:
 
 
 ## Contributing
-PRs welcome. If adding OS support, please include testing notes and required dependencies.
+PRs welcome. For detailed internal workflows, module breakdowns, and design architecture, see [ARCHITECTURE.md](ARCHITECTURE.md). If adding OS support, please include testing notes and required dependencies.
 
 ## License
 See `PKG-INFO` or project metadata.
